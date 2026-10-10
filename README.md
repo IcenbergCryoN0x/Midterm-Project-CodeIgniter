@@ -2,7 +2,7 @@
 
 # Collaborators
  LIM, JEREMIAH 
-   # Contributed
+   Contributed
    - Database Connection
    - Staff Login
    - Dashboard and Navigation
