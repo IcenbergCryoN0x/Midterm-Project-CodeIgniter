@@ -1,5 +1,15 @@
 # CodeIgniter 4 Application Starter
 
+# Collaborators
+ LIM, JEREMIAH 
+   # Contributed
+   - Database Connection
+   - Staff Login
+   - Dashboard and Navigation
+   - Product CRUD and image upload
+
+ CONSTANTINO- SEAN
+ 
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
